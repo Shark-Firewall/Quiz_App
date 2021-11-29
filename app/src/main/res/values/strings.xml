@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quiz_App</string>
+    <string name="Quiz_text">Quiz App</string>
+    <string name="wel">Welcome</string>
+    <string name="name_hint">Enter your name</string>
+    <string name="card_text">Enter your name</string>
+    <string name="next">Next</string>
+    <string name="question">Enter your Question</string>
+    <string name="opt1">Option 1</string>
+    <string name="opt2">Option 2</string>
+    <string name="opt3">Option 3</string>
+    <string name="opt4">Option 4</string>
+    <string name="prog">1/5</string>
+</resources>
